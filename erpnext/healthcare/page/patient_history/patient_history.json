@@ -5,7 +5,7 @@
  "doctype": "Page",
  "icon": "",
  "idx": 0,
- "modified": "2020-10-06 18:00:04.826578",
+ "modified": "2020-10-06 18:25:00.270377",
  "modified_by": "Administrator",
  "module": "Healthcare",
  "name": "patient_history",
@@ -21,6 +21,9 @@
   },
   {
    "role": "Doctor Admin"
+  },
+  {
+   "role": "Doctor Assistant"
   }
  ],
  "script": null,

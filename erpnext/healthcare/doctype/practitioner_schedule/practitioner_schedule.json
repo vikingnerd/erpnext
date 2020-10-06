@@ -42,8 +42,8 @@
    "label": "Schedule Details"
   }
  ],
- "modified": "2020-10-06 17:58:32.314939",
- "modified_by": "ronelvcabrera007@gmail.com",
+ "modified": "2020-10-06 18:23:38.564811",
+ "modified_by": "Administrator",
  "module": "Healthcare",
  "name": "Practitioner Schedule",
  "owner": "rmehta@gmail.com",
@@ -69,6 +69,18 @@
    "read": 1,
    "report": 1,
    "role": "Doctor Admin",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Doctor Assistant",
    "share": 1,
    "write": 1
   }

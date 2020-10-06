@@ -295,7 +295,7 @@
   }
  ],
  "is_submittable": 1,
- "modified": "2020-10-06 18:00:48.800892",
+ "modified": "2020-10-06 18:22:51.023231",
  "modified_by": "Administrator",
  "module": "Healthcare",
  "name": "Patient Encounter",
@@ -329,6 +329,15 @@
    "share": 1,
    "submit": 1,
    "write": 1
+  },
+  {
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Doctor Assistant",
+   "share": 1
   }
  ],
  "restrict_to_domain": "Healthcare",
