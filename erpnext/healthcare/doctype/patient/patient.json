@@ -1,5 +1,4 @@
 {
- "actions": [],
  "allow_copy": 1,
  "allow_import": 1,
  "allow_rename": 1,
@@ -335,10 +334,9 @@
  ],
  "icon": "fa fa-user",
  "image_field": "image",
- "links": [],
  "max_attachments": 50,
- "modified": "2020-01-29 11:22:40.698125",
- "modified_by": "Administrator",
+ "modified": "2020-10-06 17:35:45.842912",
+ "modified_by": "ronelvcabrera007@gmail.com",
  "module": "Healthcare",
  "name": "Patient",
  "name_case": "Title Case",
@@ -389,6 +387,18 @@
    "read": 1,
    "report": 1,
    "role": "Nursing User",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Doctor Admin",
    "share": 1,
    "write": 1
   }
