@@ -1,5 +1,4 @@
 {
- "actions": [],
  "allow_import": 1,
  "allow_rename": 1,
  "autoname": "field:schedule_name",
@@ -43,9 +42,8 @@
    "label": "Schedule Details"
   }
  ],
- "links": [],
- "modified": "2020-01-31 12:21:45.975488",
- "modified_by": "Administrator",
+ "modified": "2020-10-06 17:58:32.314939",
+ "modified_by": "ronelvcabrera007@gmail.com",
  "module": "Healthcare",
  "name": "Practitioner Schedule",
  "owner": "rmehta@gmail.com",
@@ -59,6 +57,18 @@
    "read": 1,
    "report": 1,
    "role": "Healthcare Administrator",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Doctor Admin",
    "share": 1,
    "write": 1
   }
