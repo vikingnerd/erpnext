@@ -42,7 +42,7 @@
    "label": "Schedule Details"
   }
  ],
- "modified": "2020-10-06 18:23:38.564811",
+ "modified": "2020-10-11 23:58:40.854213",
  "modified_by": "Administrator",
  "module": "Healthcare",
  "name": "Practitioner Schedule",
@@ -86,8 +86,10 @@
   }
  ],
  "restrict_to_domain": "Healthcare",
+ "search_fields": "schedule_name",
  "show_name_in_global_search": 1,
  "sort_field": "modified",
  "sort_order": "DESC",
+ "title_field": "schedule_name",
  "track_changes": 1
 }
