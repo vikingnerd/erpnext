@@ -1,5 +1,4 @@
 {
- "actions": [],
  "allow_import": 1,
  "autoname": "TASK-.YYYY.-.#####",
  "creation": "2013-01-29 19:25:50",
@@ -366,9 +365,8 @@
  "icon": "fa fa-check",
  "idx": 1,
  "is_tree": 1,
- "links": [],
  "max_attachments": 5,
- "modified": "2020-07-03 12:36:04.960457",
+ "modified": "2020-12-30 15:04:34.527604",
  "modified_by": "Administrator",
  "module": "Projects",
  "name": "Task",
@@ -385,6 +383,24 @@
    "role": "Projects User",
    "share": 1,
    "write": 1
+  },
+  {
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Doctor Admin",
+   "share": 1
+  },
+  {
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Doctor Assistant",
+   "share": 1
   }
  ],
  "search_fields": "subject",
